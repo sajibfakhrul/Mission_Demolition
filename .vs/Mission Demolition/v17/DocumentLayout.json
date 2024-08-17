@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game_Development\\Mission Demolition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|d:\\game_development\\mission demolition\\assets\\__scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\__scripts\\missiondemolition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\missiondemolition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\__scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\__scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\__scripts\\projectileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\projectileline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|D:\\Game_Development\\Mission Demolition\\assets\\__scripts\\rigidbodysleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D740D84-8225-D13D-7AFE-D56E41FBB6BB}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\rigidbodysleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FollowCam.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\FollowCam.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\FollowCam.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\FollowCam.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\FollowCam.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwF0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:34:01.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionDemolition.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\MissionDemolition.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\MissionDemolition.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\MissionDemolition.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\MissionDemolition.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T04:17:49.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Goal.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\Goal.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Goal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:39:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Slingshot.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\Slingshot.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Slingshot.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\Slingshot.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Slingshot.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:31:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectileLine.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\ProjectileLine.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\ProjectileLine.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\ProjectileLine.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\ProjectileLine.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:20:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Projectile.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Projectile.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:39:11.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RigidbodySleep.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\RigidbodySleep.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\RigidbodySleep.cs",
+              "ToolTip": "D:\\Game_Development\\Mission Demolition\\Assets\\__Scripts\\RigidbodySleep.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\RigidbodySleep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:06:27.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
